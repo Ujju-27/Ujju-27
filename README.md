@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone+!!!+👋;I+am+Ujjawal+Singh+Tolia;Nice+to+meet+you+!!!&center=true&size=24&weight=500&width=1000&duration=5000&pause=1000)](https://git.io/typing-svg)
                                                           "Every day is a learning day."
                                                       I'm a Passionate Developer and Coder....
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
